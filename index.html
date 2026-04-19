@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>XI.D Members</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div id="particles-js"></div>
+
+<header data-aos="fade-down">
+  <h1>✨ XI.D Members ✨</h1>
+</header>
+
+<div class="search" data-aos="fade-up">
+  <input type="text" id="search" placeholder="Cari nama atau absen...">
+</div>
+
+<div class="container" id="list"></div>
+
+<!-- POPUP -->
+<div class="overlay" id="overlay" onclick="closePopup()"></div>
+
+<div class="popup" id="popup">
+  <img id="popImg" width="90">
+  <h3 id="popName"></h3>
+  <p id="popAbsen"></p>
+  <p id="popQuote" class="quote"></p>
+</div>
+
+<!-- AUDIO -->
+<audio id="bgMusic" loop>
+  <source src="assets/gaspol.mp3" type="audio/mp3">
+</audio>
+
+<!-- BUTTON MUSIC -->
+<div id="musicBtn" onclick="toggleMusic()">▶️ Play</div>
+
+<script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
