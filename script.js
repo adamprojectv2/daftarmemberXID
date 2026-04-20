@@ -16,14 +16,14 @@ particlesJS("particles-js",{
 
 /* DATA */
 const members=[
-{no:1,name:"Adam Marvel Prasetyo",quote:"Tidak harus hebat di awal,\nyang penting tidak berhenti di tengah."},
+{no:1,name:"Adam Marvel Prasetyo",quote:"Tidak harus hebat di awal, yang penting tidak berhenti di tengah."},
 {no:2,name:"Adita Nanda Prastiti",quote:"Semua prosesmu sedang menuju versi terbaikmu."},
-{no:3,name:"Akmal Sanik",quote:"Kalau lelah, istirahat.\nJangan menyerah."},
+{no:3,name:"Akmal Sanik",quote:"Kalau lelah, istirahat. Jangan menyerah."},
 {no:4,name:"Amira Zahra Kana’ah",quote:"Kamu sedang di waktu yang tepat."},
 {no:5,name:"Asti Dwi Fauziah",quote:"Berani mencoba adalah kekuatan."},
 {no:6,name:"Aunna Fadhila Uzma",quote:"Langkah kecil tetap berarti."},
 {no:7,name:"Azhar Alya Athirah",quote:"Fokus pada tujuanmu."},
-{no:8,name:"Damara Sabiya Meiazka",quote:"Kerja keras hari ini,\nhasil esok."},
+{no:8,name:"Damara Sabiya Meiazka",quote:"Kerja keras hari ini, hasil esok."},
 {no:9,name:"Ellen Raya Anjana Barus",quote:"Berbeda itu kelebihanmu."},
 {no:10,name:"Fadillah Nurhalizah",quote:"Terus berjalan meski pelan."},
 {no:11,name:"Friyanka Stepanny Lumban Gaol",quote:"Proses panjang menghasilkan hal besar."},
